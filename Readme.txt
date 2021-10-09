@@ -1,3 +1,14 @@
+### My Solution:
+
+Just updated .net FX to latest 4.8 (it was 4.5 something)
+And updated OctaKit dependent packages to latest
+
+todo:
+There is bug apparently that sometime keys don't work. And also on file explorer sometimes it work and something it won't
+
+
+### Original Note:
+
 AlwaysOnTop - Readme
 
 Created with Visual Studio and C#.
